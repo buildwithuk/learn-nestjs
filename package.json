@@ -1,0 +1,27 @@
+{
+  "name": "learn-nestjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buildwithuk/learn-nestjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buildwithuk/learn-nestjs/issues"
+  },
+  "homepage": "https://github.com/buildwithuk/learn-nestjs#readme",
+  "description": "",
+  "dependencies": {
+    "@nestjs/common": "^11.1.9",
+    "@nestjs/core": "^11.1.9",
+    "@nestjs/platform-express": "^11.1.9",
+    "reflect-metadata": "^0.2.2",
+    "typescript": "^5.9.3"
+  }
+}
